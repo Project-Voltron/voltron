@@ -47,6 +47,7 @@ module.exports = {
           title: 'Community',
           items: [
             {
+              // TODO: add a link below that doesn't expire
               label: 'Slack',
               href: 'https://join.slack.com/share/zt-h0ygh34l-q3Bm92qXjNYKhGNr3HVuDA',
             },
