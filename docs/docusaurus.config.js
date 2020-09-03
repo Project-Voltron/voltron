@@ -23,7 +23,7 @@ module.exports = {
         {
           href: 'https://github.com/Project-Voltron/voltron',
           label: 'GitHub',
-          position: 'right',
+          position: 'left',
         },
       ],
     },
