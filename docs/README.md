@@ -2,6 +2,11 @@
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
+### Requirements
+- [Node.js](https://nodejs.org/en/download/) version 10.15.1 or above (which can be checked by running `node -v`)
+- [Yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable) version 1.5 or above (which can be checked by running `yarn version`)
+  - Yarn is a performant package manager for JavaScript and replaces the `npm` client. It is not strictly necessary, but highly encouraged.
+
 ### Installation
 
 ```
